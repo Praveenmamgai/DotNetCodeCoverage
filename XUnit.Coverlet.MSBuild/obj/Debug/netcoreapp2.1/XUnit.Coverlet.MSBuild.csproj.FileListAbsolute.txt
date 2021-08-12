@@ -1,0 +1,17 @@
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\bin\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.deps.json
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\bin\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.runtimeconfig.json
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\bin\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.runtimeconfig.dev.json
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\bin\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.dll
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\bin\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.pdb
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\bin\Debug\netcoreapp2.1\Numbers.dll
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\bin\Debug\netcoreapp2.1\Numbers.pdb
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\obj\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.csprojAssemblyReference.cache
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\obj\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.csproj.CoreCompileInputs.cache
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\obj\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.AssemblyInfoInputs.cache
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\obj\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.AssemblyInfo.cs
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\obj\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.csproj.CopyComplete
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\obj\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.dll
+D:\BackupJenkins\MSTestCoverage\XUnit.Coverlet.MSBuild\obj\Debug\netcoreapp2.1\XUnit.Coverlet.MSBuild.pdb

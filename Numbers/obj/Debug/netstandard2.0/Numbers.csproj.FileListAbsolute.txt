@@ -1,0 +1,9 @@
+D:\BackupJenkins\MSTestCoverage\Numbers\bin\Debug\netstandard2.0\Numbers.deps.json
+D:\BackupJenkins\MSTestCoverage\Numbers\bin\Debug\netstandard2.0\Numbers.dll
+D:\BackupJenkins\MSTestCoverage\Numbers\bin\Debug\netstandard2.0\Numbers.pdb
+D:\BackupJenkins\MSTestCoverage\Numbers\obj\Debug\netstandard2.0\Numbers.csprojAssemblyReference.cache
+D:\BackupJenkins\MSTestCoverage\Numbers\obj\Debug\netstandard2.0\Numbers.csproj.CoreCompileInputs.cache
+D:\BackupJenkins\MSTestCoverage\Numbers\obj\Debug\netstandard2.0\Numbers.AssemblyInfoInputs.cache
+D:\BackupJenkins\MSTestCoverage\Numbers\obj\Debug\netstandard2.0\Numbers.AssemblyInfo.cs
+D:\BackupJenkins\MSTestCoverage\Numbers\obj\Debug\netstandard2.0\Numbers.dll
+D:\BackupJenkins\MSTestCoverage\Numbers\obj\Debug\netstandard2.0\Numbers.pdb
